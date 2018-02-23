@@ -1,0 +1,12 @@
+{
+  "name": "react-form-avatar",
+  "version": "0.0.0",
+  "description": "An animated avatar component for your forms",
+  "main": "index.js",
+  "repository": "https://github.com/villasv/react-form-avatar",
+  "author": "Victor Villas <villasv@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^3.7.2"
+  }
+}
